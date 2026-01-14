@@ -1,4 +1,4 @@
-# Sales Insights Analysis – Atliq Hardware*
+# Sales Insights Analysis – Atliq Hardware
 
 **Project Overview:**
 This project aims to provide actionable insights for a sales director of a hardware company. Using Power BI, I transformed raw sales data into a dynamic dashboard to track key performance indicators (KPIs) and identify declining sales trends across different regions and products.
